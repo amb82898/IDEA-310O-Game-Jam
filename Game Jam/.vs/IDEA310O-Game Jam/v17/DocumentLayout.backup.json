@@ -1,0 +1,180 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Unity\\IDEA310O-Game Jam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C75CC940-210D-15BC-6B79-D7B5A69B2328}|Assembly-CSharp.csproj|e:\\unity\\idea310o-game jam\\assets\\scripts\\moodbartracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C75CC940-210D-15BC-6B79-D7B5A69B2328}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\moodbartracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C75CC940-210D-15BC-6B79-D7B5A69B2328}|Assembly-CSharp.csproj|E:\\Unity\\IDEA310O-Game Jam\\assets\\breadcrumbai\\ai\\scripts\\ai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C75CC940-210D-15BC-6B79-D7B5A69B2328}|Assembly-CSharp.csproj|solutionrelative:assets\\breadcrumbai\\ai\\scripts\\ai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C75CC940-210D-15BC-6B79-D7B5A69B2328}|Assembly-CSharp.csproj|E:\\Unity\\IDEA310O-Game Jam\\assets\\breadcrumbai\\examples\\demo\\scripts\\demoenemycontrols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C75CC940-210D-15BC-6B79-D7B5A69B2328}|Assembly-CSharp.csproj|solutionrelative:assets\\breadcrumbai\\examples\\demo\\scripts\\demoenemycontrols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C75CC940-210D-15BC-6B79-D7B5A69B2328}|Assembly-CSharp.csproj|E:\\Unity\\IDEA310O-Game Jam\\assets\\scripts\\animationstatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C75CC940-210D-15BC-6B79-D7B5A69B2328}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\animationstatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C75CC940-210D-15BC-6B79-D7B5A69B2328}|Assembly-CSharp.csproj|E:\\Unity\\IDEA310O-Game Jam\\assets\\scripts\\destroyondeath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C75CC940-210D-15BC-6B79-D7B5A69B2328}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\destroyondeath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C75CC940-210D-15BC-6B79-D7B5A69B2328}|Assembly-CSharp.csproj|E:\\Unity\\IDEA310O-Game Jam\\assets\\scripts\\dungeonmoodmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C75CC940-210D-15BC-6B79-D7B5A69B2328}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dungeonmoodmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C75CC940-210D-15BC-6B79-D7B5A69B2328}|Assembly-CSharp.csproj|E:\\Unity\\IDEA310O-Game Jam\\assets\\scripts\\endgametrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C75CC940-210D-15BC-6B79-D7B5A69B2328}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\endgametrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C75CC940-210D-15BC-6B79-D7B5A69B2328}|Assembly-CSharp.csproj|E:\\Unity\\IDEA310O-Game Jam\\assets\\scripts\\introscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C75CC940-210D-15BC-6B79-D7B5A69B2328}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\introscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C75CC940-210D-15BC-6B79-D7B5A69B2328}|Assembly-CSharp.csproj|E:\\Unity\\IDEA310O-Game Jam\\assets\\scripts\\enemyalignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C75CC940-210D-15BC-6B79-D7B5A69B2328}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyalignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C75CC940-210D-15BC-6B79-D7B5A69B2328}|Assembly-CSharp.csproj|E:\\Unity\\IDEA310O-Game Jam\\Assets\\EasyStart Third Person Controller\\Scripts\\ThirdPersonController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C75CC940-210D-15BC-6B79-D7B5A69B2328}|Assembly-CSharp.csproj|solutionrelative:Assets\\EasyStart Third Person Controller\\Scripts\\ThirdPersonController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DestroyOnDeath.cs",
+              "DocumentMoniker": "E:\\Unity\\IDEA310O-Game Jam\\Assets\\Scripts\\DestroyOnDeath.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DestroyOnDeath.cs",
+              "ToolTip": "E:\\Unity\\IDEA310O-Game Jam\\Assets\\Scripts\\DestroyOnDeath.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DestroyOnDeath.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T00:28:01.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EndgameTrigger.cs",
+              "DocumentMoniker": "E:\\Unity\\IDEA310O-Game Jam\\Assets\\Scripts\\EndgameTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EndgameTrigger.cs",
+              "ToolTip": "E:\\Unity\\IDEA310O-Game Jam\\Assets\\Scripts\\EndgameTrigger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EndgameTrigger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T03:26:11.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IntroScreen.cs",
+              "DocumentMoniker": "E:\\Unity\\IDEA310O-Game Jam\\Assets\\Scripts\\IntroScreen.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\IntroScreen.cs",
+              "ToolTip": "E:\\Unity\\IDEA310O-Game Jam\\Assets\\Scripts\\IntroScreen.cs",
+              "RelativeToolTip": "Assets\\Scripts\\IntroScreen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T02:16:08.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MoodBarTracker.cs",
+              "DocumentMoniker": "E:\\Unity\\IDEA310O-Game Jam\\Assets\\Scripts\\MoodBarTracker.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MoodBarTracker.cs",
+              "ToolTip": "E:\\Unity\\IDEA310O-Game Jam\\Assets\\Scripts\\MoodBarTracker.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MoodBarTracker.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwBwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T17:44:58.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "animationStateController.cs",
+              "DocumentMoniker": "E:\\Unity\\IDEA310O-Game Jam\\Assets\\Scripts\\animationStateController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\animationStateController.cs",
+              "ToolTip": "E:\\Unity\\IDEA310O-Game Jam\\Assets\\Scripts\\animationStateController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\animationStateController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAowFUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T00:55:44.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DungeonMoodManager.cs",
+              "DocumentMoniker": "E:\\Unity\\IDEA310O-Game Jam\\Assets\\Scripts\\DungeonMoodManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DungeonMoodManager.cs",
+              "ToolTip": "E:\\Unity\\IDEA310O-Game Jam\\Assets\\Scripts\\DungeonMoodManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DungeonMoodManager.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAAEYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T21:59:40.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DemoEnemyControls.cs",
+              "DocumentMoniker": "E:\\Unity\\IDEA310O-Game Jam\\Assets\\BreadcrumbAi\\Examples\\Demo\\Scripts\\DemoEnemyControls.cs",
+              "RelativeDocumentMoniker": "Assets\\BreadcrumbAi\\Examples\\Demo\\Scripts\\DemoEnemyControls.cs",
+              "ToolTip": "E:\\Unity\\IDEA310O-Game Jam\\Assets\\BreadcrumbAi\\Examples\\Demo\\Scripts\\DemoEnemyControls.cs",
+              "RelativeToolTip": "Assets\\BreadcrumbAi\\Examples\\Demo\\Scripts\\DemoEnemyControls.cs",
+              "ViewState": "AgIAAMUAAAAAAAAAAADwv3YAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T17:40:10.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ThirdPersonController.cs",
+              "DocumentMoniker": "E:\\Unity\\IDEA310O-Game Jam\\Assets\\EasyStart Third Person Controller\\Scripts\\ThirdPersonController.cs",
+              "RelativeDocumentMoniker": "Assets\\EasyStart Third Person Controller\\Scripts\\ThirdPersonController.cs",
+              "ToolTip": "E:\\Unity\\IDEA310O-Game Jam\\Assets\\EasyStart Third Person Controller\\Scripts\\ThirdPersonController.cs",
+              "RelativeToolTip": "Assets\\EasyStart Third Person Controller\\Scripts\\ThirdPersonController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T21:52:06.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ai.cs",
+              "DocumentMoniker": "E:\\Unity\\IDEA310O-Game Jam\\Assets\\BreadcrumbAi\\Ai\\Scripts\\Ai.cs",
+              "RelativeDocumentMoniker": "Assets\\BreadcrumbAi\\Ai\\Scripts\\Ai.cs",
+              "ToolTip": "E:\\Unity\\IDEA310O-Game Jam\\Assets\\BreadcrumbAi\\Ai\\Scripts\\Ai.cs",
+              "RelativeToolTip": "Assets\\BreadcrumbAi\\Ai\\Scripts\\Ai.cs",
+              "ViewState": "AgIAAPsAAAAAUDGrXpAUwHcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T17:24:40.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EnemyAlignment.cs",
+              "DocumentMoniker": "E:\\Unity\\IDEA310O-Game Jam\\Assets\\Scripts\\EnemyAlignment.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyAlignment.cs",
+              "ToolTip": "E:\\Unity\\IDEA310O-Game Jam\\Assets\\Scripts\\EnemyAlignment.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyAlignment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T22:29:06.082Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
